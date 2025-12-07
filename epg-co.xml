@@ -102,12 +102,12 @@
 <channel id="HBO HD.co"><display-name>HBO HD</display-name></channel>
 <channel id="HBO Mundi.co"><display-name>HBO Mundi</display-name></channel>
 <channel id="HBO Plus (Panamericano HD).co"><display-name>HBO Plus (Panamericano HD)</display-name></channel>
-<channel id="HBO Plus Este.co"><display-name>HBO Plus Este</display-name></channel>
+<channel id="HBO Plus Este.co"><display-name>HBO Plus East</display-name></channel>
 <channel id="HBO Plus Panregional HD.co"><display-name>HBO Plus Panregional HD</display-name></channel>
 <channel id="HBO Pop.co"><display-name>HBO Pop</display-name></channel>
 <channel id="HBO Signature HD.co"><display-name>HBO Signature HD</display-name></channel>
 <channel id="HBO Signature.co"><display-name>HBO Signature</display-name></channel>
-<channel id="HBO Xtreme (Oeste).co"><display-name>HBO Xtreme (Oeste)</display-name></channel>
+<channel id="HBO Xtreme (Oeste).co"><display-name>HBO Xtreme West</display-name></channel>
 <channel id="HBO Xtreme (Panamericano HD).co"><display-name>HBO Xtreme (Panamericano HD)</display-name></channel>
 <channel id="HBO Xtreme (Panregional HD).co"><display-name>HBO Xtreme (Panregional HD)</display-name></channel>
 <channel id="HBO Xtreme.co"><display-name>HBO Xtreme</display-name></channel>
@@ -184,7 +184,7 @@
 <channel id="Telecaribe.co"><display-name>Telecaribe</display-name></channel>
 <channel id="Telehit HD.co"><display-name>Telehit HD</display-name></channel>
 <channel id="Telemedellín HD.co"><display-name>Telemedellín HD</display-name></channel>
-<channel id="Telemedellín.co"><display-name>Telemedellín</display-name></channel>
+<channel id="Telemedellín.co"><display-name>Tele medellín</display-name></channel>
 <channel id="Telemundo.co"><display-name>Telemundo</display-name></channel>
 <channel id="Telenostalgia.co"><display-name>Telenostalgia</display-name></channel>
 <channel id="Telepacifico.co"><display-name>Telepacifico</display-name></channel>
