@@ -5,6 +5,7 @@
   <channel id="DSPORTS.(ARG).dtvsp">
     <display-name lang="en">DSPORTS</display-name>
     <display-name lang="en">DIRECTV SPORTS</display-name>
+    <display-name lang="en">DIRECTVSP 1</display-name>
     <icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" />
     <icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1610.png&amp;width=143&amp;height=148" />
     <url>http://www.directvsports.com</url>
@@ -18,6 +19,7 @@
   <channel id="DSPORTS.2.HD.dtvsp">
     <display-name lang="en">DSPORTS 2 HD</display-name>
     <display-name lang="en">DIRECTV SPORTS 2</display-name>
+    <display-name lang="en">DIRECTVSP 2</display-name>
     <icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1612.png&amp;width=143&amp;height=148" />
     <icon src="https://d1oq4398v5395a.cloudfront.net/Thumbnail.ashx?image=LOGOS/canales/AR/1612.png&amp;width=143&amp;height=148" />
     <url>http://www.directvsports.com</url>
